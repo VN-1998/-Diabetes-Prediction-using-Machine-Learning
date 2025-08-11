@@ -34,7 +34,4 @@ The dataset used contains multiple health-related features such as:
 - Visualized feature importance to identify key health parameters affecting diabetes prediction.
 - Achieved best results with **Random Forest Classifier**.
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/VN-1998/-Diabetes-Prediction-using-Machine-Learning.git
+
